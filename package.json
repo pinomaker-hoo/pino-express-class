@@ -1,0 +1,22 @@
+{
+  "name": "pino-express-class",
+  "version": "1.0.2",
+  "description": "Express boilerplate clone module using Typeorm and Routing Controller & Typedi",
+  "main": "index.js",
+  "author": "pinomaker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pinomaker-hoo/pino-express-class"
+  },
+  "keywords": [
+    "express",
+    "boilerplate",
+    "typescript",
+    "starter",
+    "typeorm"
+  ],
+  "license": "ISC",
+  "bin": {
+    "pino-express-class": "./bin/generate-app.js"
+  }
+}
